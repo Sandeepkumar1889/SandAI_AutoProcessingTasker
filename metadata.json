@@ -1,0 +1,6 @@
+{
+  "name": "AutoEntry AI - Adaptive Daily Data Entry & Workflow Automation",
+  "description": "AI-powered data automation platform that learns your daily processing patterns, extracts unstructured inputs into structured entries, and seamlessly integrates with your favorite tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
